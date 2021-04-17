@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penguenn/hello-world-npm.git"
+  },
+  "author": "penguenn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/penguenn/hello-world-npm/issues"
+  },
+  "homepage": "https://github.com/penguenn/hello-world-npm#readme"
+}
